@@ -1,2 +1,2 @@
 # Proyecto-GiroSafe
-Aqui se representará todo aquello del backend y frontend
+Aqui se representará todo aquello del frontend
