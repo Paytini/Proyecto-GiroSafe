@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "install": "^0.13.0"
+  },
+  "name": "girosafe_frontend",
+  "description": "Aqui se representará todo aquello del frontend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
